@@ -1,3 +1,10 @@
 # Restaurant-Sales-Project-Matillion
 
-This repository contains an End to End Restaurant Sales Workflow Project Using AWS, Snowflake, Matillion and Power BI.
+## Introduction
+
+This project streamlines restaurant sales workflows through the integration of Matillion for ETL, AWS for cloud infrastructure, Snowflake for data warehousing and Power BI for advanced dashboarding and reporting. It aims to optimize sales data processing and analysis for the restaurant industry.
+
+## Project Architecture
+
+![Architecture Diagram](https://github.com/prak20/Restaurant-Sales-Project-Matillion/blob/main/Project%20Architecture/AWS_Matillon_Snowflake_PBI%20_architecture.png)
+
