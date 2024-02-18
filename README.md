@@ -8,3 +8,6 @@ This project streamlines restaurant sales workflows through the integration of M
 
 ![Architecture Diagram](https://github.com/prak20/Restaurant-Sales-Project-Matillion/blob/main/Project%20Architecture/AWS_Matillon_Snowflake_PBI%20_architecture.png)
 
+**Note:**
+Switch to the 'Master' branch in order to view Project Job files.
+
